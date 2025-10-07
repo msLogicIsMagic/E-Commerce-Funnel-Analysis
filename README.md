@@ -1,6 +1,6 @@
 # E-Commerce-Funnel-Analysis
 
-The dataset for this project is sourced from the UC Irvine Machine Learning Repository. You can find the detailed explanation of the dataset and links to download the dataset at the link given below : 
+The dataset for this project is sourced from the UC Irvine Machine Learning Repository. You can find the detailed explanation of the dataset and links to download the dataset at the link given here : 
 https://archive.ics.uci.edu/dataset/352/online+retail
 
 This dataset is a real world dataset sourced from a UK-based online retailer. This is a good sized dataset that will allow for advanced analytics while not being so huge as to slow down your system.
