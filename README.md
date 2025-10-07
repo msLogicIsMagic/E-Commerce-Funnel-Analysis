@@ -5,6 +5,6 @@ The dataset for this project is sourced from the UC Irvine Machine Learning Repo
 This dataset is a real world dataset sourced from a UK-based online retailer. This is a good sized dataset that will allow for advanced analytics while not being so huge as to slow down your system. This dataset has a single table that gives the transaction details. The columns in this table are InvoiceNo, StockCode, Description, Qunatity, InvoiceDate, UnitPrice, CustomerID and Country.
 
 In this project, I will be exploring the more advanced features of Power BI. I will be analyzing the customer's purchasing behaviour, attempting to discover patterns in the sales funnel and segment customers using RFM(Recency, Frequency, Monetary) analysis to identify high-value segments and areas for improvement.
-]
-##Data Preparation
+
+## Data Preparation
 For the purpose of this project, I will not be looking at cancellations. So, I have removed those records from the dataset. I have also removed rows with CustomerID missing. I have added a custom column to the dataset for the total amount of the order, which is calculated as Quantity * UnitPrice.
