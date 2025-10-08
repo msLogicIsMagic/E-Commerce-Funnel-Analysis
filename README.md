@@ -10,4 +10,4 @@ In this project, I will be exploring the more advanced features of Power BI. I w
 For the purpose of this project, I will not be looking at cancellations. So, I have removed those records from the dataset. I have also removed rows with CustomerID missing. I have added a custom column to the dataset for the total amount of the order, which is calculated as Quantity * UnitPrice.
 
 ## Data Modeling
-The original dataset only contains the fact table that we will using in this project. We also need to create a supporting dimension table for Calendar and Products.
+The original dataset only contains the fact table that we will using in this project. We also need to create a supporting dimension table for Calendar and Products. I used a DAX to create the Calendar table and Power Query to create the Products table. I have also added the relationships necessary for this schema to work. Now that we have established a proper star schema, we are ready to perform data analysis on the given data.
